@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactJson from 'react-json-view'
 import 'normalize.css'
 import 'styles/index.scss'
 import 'bootstrap/dist/css/bootstrap.css'
